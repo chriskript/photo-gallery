@@ -2,7 +2,11 @@
 
 <p id="description">This project is an Interactive Photo Gallery built using HTML and CSS designed to showcase beautiful photos in a modern engaging and interactive way. Perfect for photographers designers or developers looking to enhance their portfolio or learn interactive design techniques.</p>
 
-  
+![preview-photo-gallery](https://github.com/chriskript/photo-gallery/blob/main/photo-gallery-preview.gif)
+
+<h2>🚀 Demo</h2>
+
+[Preview Project](https://chriskript.github.io/photo-gallery/)
   
 <h2>🧐 Features</h2>
 
